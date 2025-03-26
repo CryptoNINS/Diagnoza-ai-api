@@ -1,0 +1,2 @@
+# Diagnoza-ai-api
+med
